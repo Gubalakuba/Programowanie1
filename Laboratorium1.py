@@ -58,7 +58,25 @@
 
 ##############Zadania do wykonania, Twoje pierwsze algorytmy
 # 1. Wykonaj odejmowanie, mnożenie i dzielenie 2 dowolnych liczb
+# x = float(input('Podaj x = '))
+# y = float(input('Podaj y = '))
+# suma = x + y
+# print('Suma to:',suma)
+# od = x - y
+# print('odejmowanie to:',od)
+# mn = x * y
+# print('mnożenie to:',mn)
+# dz = x / y
+# print('dzielenie to:',dz)
+
+
+
 # 2. Oblicz wyrażenie 2x+5y   gdzie: x,y to dowolne dwie liczby które podaje użytkownik (w konsoli)
+
+
+
+
+
 # 3. Popraw zmienną zdanie tak aby wyświetlany był napis: "Ala ma kota"
 # 4. Wyświetl zdanie "Jestem a b mam c lat studiuję d",
 #  gdzie : a-imie, a-nazwisko, c-liczba, d-kierunek studiów są dowolne zmienne które podaje użytkownik (wczytywane z klawiatury)
@@ -67,6 +85,13 @@
 # 7. Utwórz prosty kalkulator dla 2 zmiennych podanych przez użytkownika, który obliczy: sumę, różnicę,
 # iloczyn, iloraz, potęgę tych liczb, nie zapomnij o stosownych komentarzach informacyjnych dla użytkownika.
 # 8. Oblicz wyrażenie: a = 3z-|2cos(x)sin(y)|, gdzie: x,y,z - dowolne liczby     (|x| to moduł z liczby z, użyj funkcji abs())
+# import math
+# a = math.sin(30)
+# # print(a)
+# from math import sin,cos
+# a = sin(30)
+# print(a)
+# print(abs(a))
 
 # 9. Wykonaj mini ankietę tj. poproś użytkownika o następujące informacje: imie, nazwisko, wiek, zadaj mu pytania: "Czy zdrowo się odżywiasz?",
 # , "Czy lubisz sport?" i dodatkowo 3 inne własne. Po uzyskaniu wszystkich odpowiedzi wyświetl ich podsumowanie.
