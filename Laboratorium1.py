@@ -58,6 +58,7 @@
 
 ##############Zadania do wykonania, Twoje pierwsze algorytmy
 # 1.  Wykonaj odejmowanie, mnożenie i dzielenie 2 dowolnych liczb
+
 # x = float(input('Podaj x = '))
 # y = float(input('Podaj y = '))
 # suma = x + y
