@@ -57,7 +57,7 @@
 # print(a >= b)
 
 ##############Zadania do wykonania, Twoje pierwsze algorytmy
-# 1. Wykonaj odejmowanie, mnożenie i dzielenie 2 dowolnych liczb
+# 1.  Wykonaj odejmowanie, mnożenie i dzielenie 2 dowolnych liczb
 # x = float(input('Podaj x = '))
 # y = float(input('Podaj y = '))
 # suma = x + y
@@ -71,15 +71,36 @@
 
 
 
-# 2. Oblicz wyrażenie 2x+5y   gdzie: x,y to dowolne dwie liczby które podaje użytkownik (w konsoli)
+#  2. Oblicz wyrażenie 2x+5y   gdzie: x,y to dowolne dwie liczby które podaje użytkownik (w konsoli)
 
-
+# x = float(input("Podaj wartość x: "))
+# y = float(input("Podaj wartość y: "))
+# wynik = 2*x + 5*y
+# print("Wynik: ", wynik)
 
 
 
 # 3. Popraw zmienną zdanie tak aby wyświetlany był napis: "Ala ma kota"
-# 4. Wyświetl zdanie "Jestem a b mam c lat studiuję d",
-#  gdzie : a-imie, a-nazwisko, c-liczba, d-kierunek studiów są dowolne zmienne które podaje użytkownik (wczytywane z klawiatury)
+
+ # x = "Ala ma kota"
+ # print(x)
+
+
+
+ # 4. Wyświetl zdanie "Jestem a b mam c lat studiuję d",
+ # gdzie : a-imie, a-nazwisko, c-liczba, d-kierunek studiów są dowolne zmienne które podaje użytkownik (wczytywane z klawiatury)
+
+# imie = input("Podaj imię: ")
+# nazwisko = input("Podaj nazwisko: ")
+# wiek = input("Podaj wiek: ")
+# kierunek = input("Podaj kierunek studiów: ")
+
+# zdanie = "Jestem " + imie + " " + nazwisko + " i mam " + wiek + " lat. Studiuję " + kierunek + "."
+# print(zdanie)
+
+
+
+
 # 5. Sprawdź czy 1+2+10+20000001+4+347586970885 jest równa 321784560456434534646
 # 6. Sprawdź czy suma dowolnych dwóch liczb podanych przez użytkownika jest liczbą parzystą czy nieparzystą wyświetl właściwy komunikat
 # 7. Utwórz prosty kalkulator dla 2 zmiennych podanych przez użytkownika, który obliczy: sumę, różnicę,
